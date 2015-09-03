@@ -1,3 +1,9 @@
+This is the feature/lambda branch of SeqAn. It contains the old releases of 
+Lambda and the old source code (at extras/apps/lambda).
+
+Please visit https://github.com/seqan/lambda for the new code and releases.
+
+
                                     SeqAn
                       The Library for Sequence Analysis
                               http://www.seqan.de
